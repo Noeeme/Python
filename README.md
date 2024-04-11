@@ -1,7 +1,7 @@
 # Programa Desenvolve 2024 do Grupo Boticário em parceria com Alura
 
 ## Python 
-- Este repositório consiste em arquivos python com códigos desenvolvidos em aulas do curso da Alura ('Python para Data Science: primeiros passos' + 'Python para Data Science: trabalhando com funções, estruturas de dados e exceções' + 'NumPy: análise numérica eficiente com Python' + 'Pandas: conhecendo a biblioteca' + 'Pandas I/O: trabalhando com diferentes formatos de arquivos' + 'Pandas: selecionando e agrupando dados')
+- Este repositório consiste em arquivos python com códigos desenvolvidos em aulas do curso da Alura ('Python para Data Science: primeiros passos' + 'Python para Data Science: trabalhando com funções, estruturas de dados e exceções' + 'NumPy: análise numérica eficiente com Python' + 'Pandas: conhecendo a biblioteca' + 'Pandas I/O: trabalhando com diferentes formatos de arquivos' + 'Pandas: selecionando e agrupando dados' + 'Pandas: transformação e manipulação de dados')
 
 ## Etapas:
 ### Python para Data Science: primeiros passos
@@ -54,4 +54,12 @@
 - Agrupar dados para criação de tabelas
 - Elaborar gráficos para ajudar na análise dos dados
 - Aplicar filtragem e seleção de dados usando a biblioteca pandas
+
+### Pandas: transformação e manipulação de dados
+- Entender e aplicar comandos de transformação de dados
+- Diferenciar os tipos de informação que estão presentes nos dados
+- Manipular valores numéricos dentro do dataframe Pandas
+- Distinguir métodos de manipulação de dados textuais
+- Realizar transformações com tipo datetime de dados
+- Relacionar conversões de dados à construção de projetos
 
